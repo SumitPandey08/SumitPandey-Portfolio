@@ -26,7 +26,7 @@ const Contact = () => {
             <div className="mt-8 space-y-4 text-gray-300">
               <div className="flex items-center gap-3">
                 <span className="font-semibold text-cyan-300 w-20">Email:</span> 
-                <a href="mailto:contact@sumitpandey.dev" className="text-white hover:text-cyan-300 transition" data-cursor-hover="true">contact@sumitpandey.dev</a>
+                <a href="mailto:sp.sumitpandey@gmail.com" className="text-white hover:text-cyan-300 transition" data-cursor-hover="true">sp.sumitpandey06@gmail.com</a>
               </div>
               <div className="flex items-center gap-3">
                 <span className="font-semibold text-cyan-300 w-20">Phone:</span> 

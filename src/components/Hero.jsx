@@ -12,7 +12,7 @@ const APP = {
     stats: [
       { value: "2+", label: "Years Coding" },
       { value: "25+", label: "Projects" },
-      { value: "70+", label: "Clients" },
+      { value: "2+", label: "Clients" },
       { value: "95%", label: "Code Quality" },
     ],
   };
