@@ -108,6 +108,7 @@ const Hero = () => {
                 autoplay
                 loop
               />
+              <div role="img" aria-label="An animation of a person coding on a laptop, switching to a greeting animation on click."></div>
             </div>
           </motion.div>
         </div>
